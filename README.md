@@ -4,5 +4,5 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=RTa-technology&count_private=true&theme=onedark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTa-technology&layout=compact&theme=onedark&hide_border=true&hide=css,html&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rta-technology&layout=compact&theme=onedark&hide_border=true&hide=css,html&langs_count=5" />
 </a>
