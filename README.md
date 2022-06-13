@@ -4,14 +4,6 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=RTa-technology&count_private=true&theme=onedark&hide_border=true&count_private=true" />
-  <div class="col">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rta-technology&layout=compact&theme=onedark&hide_border=true&hide=css,html&langs_count=5" />
-    <img src="https://komarev.com/ghpvc/?username=RTa-technology&color=green" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rta-technology&layout=compact&theme=onedark&hide_border=true&hide=css,html&langs_count=5" />
 </a>
-
-<style>
-.col {
-  display: flex;flex-direction: column;align-items: baseline;  
-}
-</style>
+<img src="https://komarev.com/ghpvc/?username=RTa-technology&color=green" />
