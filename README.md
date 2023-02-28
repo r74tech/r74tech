@@ -1,9 +1,7 @@
-<h2>🏆 Github Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rta-technology&theme=onedark&no-frame=true&column=8" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=RTa-technology&count_private=true&theme=onedark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rta-technology&layout=compact&theme=onedark&hide_border=true&hide=css,html&langs_count=5" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=RTa-technology&color=green" />
+### Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rta-technology&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rta-technology&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rta-technology&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rta-technology&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rta-technology&theme=onedark&utcOffset=9)
+![](https://github-profile-trophy.vercel.app/?username=rta-technology&theme=onedark&no-frame=true&column=8)
