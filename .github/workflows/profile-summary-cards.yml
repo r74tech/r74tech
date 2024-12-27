@@ -22,5 +22,5 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: 9
-          EXCLUDE: "html,css"
+          EXCLUDE: "HTML"
           AUTO_PUSH: true
