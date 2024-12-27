@@ -1,9 +1,7 @@
 ### Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r74tech&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r74tech&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r74tech&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r74tech&count_private=True&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r74tech&utcOffset=9&theme=dracula)
+[![](https://raw.githubusercontent.com/r74tech/r74tech/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/r74tech/r74tech/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/r74tech/r74tech/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/r74tech/r74tech/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/r74tech/r74tech/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://github-profile-trophy.vercel.app/?username=r74tech&no-frame=true&theme=dracula)
 
 ### Languages and Tools:
