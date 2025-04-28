@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/r74tech/r74tech/main/profile-summary-card-output/react/4-productive-time.svg)
+```
+
+    
